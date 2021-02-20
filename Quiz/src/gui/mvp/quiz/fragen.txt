@@ -1,0 +1,2 @@
+Was ist 3*3? {3; 8; 9; 27} 2
+Was ist eine Datenstruktur? {Baum; Busch; Hecke; Wiese} 0
