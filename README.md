@@ -5,6 +5,6 @@ them, undo or redo these functionalities, and record results as well as the numb
 The graphical user interface is supported by the JavaFX library
 
 
-![](./app-img1.png)
+![80%](./app-img1.png)
 
-![](./app-img2.png)
+![80%](./app-img2.png)
